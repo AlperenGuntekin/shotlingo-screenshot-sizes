@@ -1,0 +1,48 @@
+{
+  "name": "@shotlingo/screenshot-sizes",
+  "version": "1.0.0",
+  "description": "Current App Store + Google Play screenshot size requirements (2026). iPhone 6.9, 6.7, 6.5, 6.1, 5.5\", iPad Pro 12.9, 11\", Mac, Apple TV — pixels, aspect ratios, minimum count, and orientation per device class.",
+  "type": "module",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./index.js",
+      "types": "./index.d.ts"
+    }
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "aso",
+    "app-store",
+    "google-play",
+    "screenshot",
+    "dimensions",
+    "iphone",
+    "ipad",
+    "ios",
+    "android",
+    "mobile"
+  ],
+  "author": {
+    "name": "Alperen Güntekin",
+    "url": "https://shotlingo.com"
+  },
+  "license": "MIT",
+  "homepage": "https://shotlingo.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlperenGuntekin/shotlingo-screenshot-sizes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AlperenGuntekin/shotlingo-screenshot-sizes/issues"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
