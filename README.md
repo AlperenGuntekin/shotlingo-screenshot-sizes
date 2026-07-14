@@ -83,6 +83,15 @@ this dataset was extracted from.
 - [`@shotlingo/locale-codes`](https://www.npmjs.com/package/@shotlingo/locale-codes) — App Store + Play Store locale codes for 40+ supported languages (ISO 639-1 → App Store Connect + Play Console mapping with RTL flag).
 - [`@shotlingo/text-expansion`](https://www.npmjs.com/package/@shotlingo/text-expansion) — translation length expansion ratios per target language for App Store screenshot localization (avoid German text overflowing your buttons).
 
+## Related tools
+
+- [App Store locale codes lookup](https://shotlingo.com/tools/app-store-locale-codes) — interactive search + copy-to-clipboard for every supported locale.
+- [Text expansion calculator](https://shotlingo.com/tools/text-expansion-calculator) — estimate translated string length so screenshot text overlays don't overflow.
+
 ## License
 
 MIT © [Alperen Güntekin](https://shotlingo.com)
+
+---
+
+<sub>Made by [App Store screenshot sizes reference](https://shotlingo.com) — Shotlingo, an AI-powered App Store screenshot localization tool for 40+ languages.</sub>
