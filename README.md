@@ -94,4 +94,4 @@ MIT © [Alperen Güntekin](https://shotlingo.com)
 
 ---
 
-<sub>Made by [AI screenshot localizer](https://shotlingo.com) — Shotlingo, an AI-powered App Store screenshot localization tool for 40+ languages.</sub>
+<sub>Made by [App Store screenshot sizes reference](https://shotlingo.com) — Shotlingo, an AI-powered App Store screenshot localization tool for 40+ languages.</sub>
